@@ -7,6 +7,7 @@
  * TODO: Implementar Trapecio/Rectangulo, agregar otro idioma a reporting.
  * */
 
+using CodingChallenge.Data.Resources;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -48,10 +49,11 @@ namespace CodingChallenge.Data.Classes
 
             if (!formas.Any())
             {
-                if (idioma == Castellano)
-                    sb.Append("<h1>Lista vacía de formas!</h1>");
-                else
-                    sb.Append("<h1>Empty list of shapes!</h1>");
+                //if (idioma == Castellano)
+                //    sb.Append("<h1>Lista vacía de formas!</h1>");
+                //else
+                //    sb.Append("<h1>Empty list of shapes!</h1>");
+                sb.Append(Labels.Empty_List);
             }
             else
             {

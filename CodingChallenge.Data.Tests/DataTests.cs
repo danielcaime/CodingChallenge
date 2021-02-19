@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
+using System.Threading;
 using CodingChallenge.Data.Classes;
 using NUnit.Framework;
 
@@ -18,6 +20,9 @@ namespace CodingChallenge.Data.Tests
         [TestCase]
         public void TestResumenListaVaciaFormasEnIngles()
         {
+            Thread.CurrentThread.CurrentCulture = new CultureInfo("en-US");
+            Thread.CurrentThread.CurrentUICulture = new CultureInfo("en-US");
+
             Assert.AreEqual("<h1>Empty list of shapes!</h1>",
                 FormaGeometrica.Imprimir(new List<FormaGeometrica>(), 2));
         }
