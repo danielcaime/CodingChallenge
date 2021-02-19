@@ -118,33 +118,24 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Area" xml:space="preserve">
-    <value>Area</value>
-  </data>
-  <data name="Circulo" xml:space="preserve">
-    <value>Círculo</value>
+    <value>Zone</value>
   </data>
   <data name="Cuadrado" xml:space="preserve">
-    <value>Cuadrado</value>
+    <value>Carré</value>
   </data>
   <data name="Empty_List" xml:space="preserve">
-    <value>&lt;h1&gt;Lista vacía de formas!&lt;/h1&gt;</value>
+    <value>&lt;h1&gt;Liste vide de formes!&lt;/h1&gt;</value>
   </data>
   <data name="Perimeter" xml:space="preserve">
-    <value>Perimetro</value>
-  </data>
-  <data name="Rectangulo" xml:space="preserve">
-    <value>Rectangulo</value>
-  </data>
-  <data name="shapes" xml:space="preserve">
-    <value>formas</value>
+    <value>Périmètre</value>
   </data>
   <data name="Shapes_report" xml:space="preserve">
-    <value>&lt;h1&gt;Reporte de Formas&lt;/h1&gt;</value>
+    <value>&lt;h1&gt;Rapport de formulaires!&lt;/h1&gt;</value>
   </data>
   <data name="Trapecio" xml:space="preserve">
-    <value>Trapecio</value>
+    <value>Trapèze</value>
   </data>
   <data name="TrianguloEquilatero" xml:space="preserve">
-    <value>Triángulo</value>
+    <value />
   </data>
 </root>

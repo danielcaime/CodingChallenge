@@ -117,7 +117,31 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Circulo" xml:space="preserve">
+    <value>Circle</value>
+  </data>
+  <data name="Cuadrado" xml:space="preserve">
+    <value>Square</value>
+  </data>
   <data name="Empty_List" xml:space="preserve">
     <value>&lt;h1&gt;Empty list of shapes!&lt;/h1&gt;</value>
+  </data>
+  <data name="Perimeter" xml:space="preserve">
+    <value>Perimeter</value>
+  </data>
+  <data name="Rectangulo" xml:space="preserve">
+    <value>Rectangle</value>
+  </data>
+  <data name="shapes" xml:space="preserve">
+    <value>shapes</value>
+  </data>
+  <data name="Shapes_report" xml:space="preserve">
+    <value>&lt;h1&gt;Shapes report&lt;/h1&gt;</value>
+  </data>
+  <data name="Trapecio" xml:space="preserve">
+    <value>Trapeze</value>
+  </data>
+  <data name="TrianguloEquilatero" xml:space="preserve">
+    <value>Triangle</value>
   </data>
 </root>

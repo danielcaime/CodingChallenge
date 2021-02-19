@@ -61,11 +61,92 @@ namespace CodingChallenge.Data.Resources {
         }
         
         /// <summary>
+        ///   Busca una cadena traducida similar a Area.
+        /// </summary>
+        internal static string Area {
+            get {
+                return ResourceManager.GetString("Area", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a Círculo.
+        /// </summary>
+        internal static string Circulo {
+            get {
+                return ResourceManager.GetString("Circulo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a Cuadrado.
+        /// </summary>
+        internal static string Cuadrado {
+            get {
+                return ResourceManager.GetString("Cuadrado", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Busca una cadena traducida similar a &lt;h1&gt;Lista vacía de formas!&lt;/h1&gt;.
         /// </summary>
         internal static string Empty_List {
             get {
                 return ResourceManager.GetString("Empty_List", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a Perimetro.
+        /// </summary>
+        internal static string Perimeter {
+            get {
+                return ResourceManager.GetString("Perimeter", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a Rectangulo.
+        /// </summary>
+        internal static string Rectangulo {
+            get {
+                return ResourceManager.GetString("Rectangulo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a formas.
+        /// </summary>
+        internal static string shapes {
+            get {
+                return ResourceManager.GetString("shapes", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a &lt;h1&gt;Reporte de Formas&lt;/h1&gt;.
+        /// </summary>
+        internal static string Shapes_report {
+            get {
+                return ResourceManager.GetString("Shapes_report", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a Trapecio.
+        /// </summary>
+        internal static string Trapecio {
+            get {
+                return ResourceManager.GetString("Trapecio", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a Triángulo.
+        /// </summary>
+        internal static string TrianguloEquilatero {
+            get {
+                return ResourceManager.GetString("TrianguloEquilatero", resourceCulture);
             }
         }
     }

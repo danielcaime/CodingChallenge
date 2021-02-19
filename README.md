@@ -30,3 +30,16 @@ Lo que te encontrás al levantar la .sln es una librería con el objeto de negoc
 La resolución es libre y cómo encarar el problema queda en el criterio de quien lo resuelva!
 
 **¡¡Buena suerte!!**
+
+/********************************************/
+buenas hasta aca utilizamos archivos de recursos para internacionalizacion, y algo de polimorfismo para el manejo de las formas geométrica, los metodos de helper son genericos para poder agregar nuevas formas.
+
+segun el primaerp time tracking insumí unas 4hs 34minutos
+    Caime Daniel
+Presupuesto:
+    No hay presupuesto 
+Plan:
+    No hay plan 
+
+Total :
+    04:34 
